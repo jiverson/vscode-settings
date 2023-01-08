@@ -1,0 +1,48 @@
+{
+  "aws.onDefaultRegionMissing": "ignore",
+  "aws.profile": "profile:default",
+  "[dart]": {
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.tabSize": 2,
+    "editor.wordBasedSuggestions": false,
+    "dart.closingLabels": false,
+    "dart.lineLength": 80,
+    "dart.openDevTools": "flutter",
+    "dart.warnWhenEditingFilesOutsideWorkspace": false
+  },
+  "[go]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    },
+    "editor.formatOnSave": true,
+    "editor.snippetSuggestions": "none",
+    "editor.tabSize": 4,
+    "go.autocompleteUnimportedPackages": true,
+    "go.lintOnSave": "off",
+    "go.lintTool": "golangci-lint",
+    "go.useLanguageServer": true,
+    "gopls": {
+      "usePlaceholders": true // add parameter placeholders when completing a function
+    }
+  },
+  "[markdown]": {
+    "editor.formatOnSave": false,
+    "files.trimTrailingWhitespace": false
+  },
+  "[todo]": {
+    "workbench.editor.languageDetection": false
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
+		"schemas": {
+			"https://json.schemastore.org/github-workflow.json": [".github/workflows/*.{yml,yaml}"]
+		}
+  }
+}
