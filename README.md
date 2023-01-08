@@ -19,3 +19,5 @@ Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a
 <br>
 
 ## LICENSE
+
+MIT
