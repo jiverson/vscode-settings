@@ -9,10 +9,9 @@
 <p align="center"><samp>Preview</samp></p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/11247099/110247185-ed26b380-7fa5-11eb-8fce-6c224bb6ef26.png">
-<img src="https://user-images.githubusercontent.com/11247099/110247187-f1eb6780-7fa5-11eb-9258-620309e20961.png">
+<img src="https://user-images.githubusercontent.com/161218/211185288-b3da7cc3-5c85-4391-8b94-6c2a1c3627c6.png">
 <sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theme | <a href="https://github.com/antfu/vscode-theme-vitesse">Vitesse Theme</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="http://input.fontbureau.com/">Input Mono</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://fonts.ilovetypography.com/fonts/tabular-type-foundry/comic-code">Comic Code Liguratures</a><br>
 &nbsp;File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons">File Icons</a><br>
 Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></sub>
 </p>
@@ -20,5 +19,3 @@ Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a
 <br>
 
 ## LICENSE
-
-MIT
